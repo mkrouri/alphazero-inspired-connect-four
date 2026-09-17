@@ -1,5 +1,4 @@
-# AlphaZero-Inspired Connect Four
-
+# AlphaZero-Inspired Connect Four: Self-Play, MCTS and Neural Policy-Value Learning
 A Connect Four agent trained through self-play, using Monte Carlo Tree Search (MCTS) and a PyTorch policy-value neural network.
 
 ## Overview
